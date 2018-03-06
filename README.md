@@ -11,4 +11,7 @@
 ##### 9) Fetch the commits                       :    git fetch
 ##### 10)Merge the changes from Fetch            :    git merge FETCH_HEAD  
 
-#### In this Repository we will maintain the entire code of Miracle Software Systems Website 
+### Some Tips for you!
+##### * Always commit the code which need to be sent for review with the key word "test"
+##### * Always commit the code which is finalized with the key word "final"
+##### * Branch that has been un used will  be deleted automatically after a week!
