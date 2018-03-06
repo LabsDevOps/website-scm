@@ -1,8 +1,8 @@
 # Miracle Software Systems' Source Code Management
 ### Commands that can help you!
-#### Pull the Code from the Repository       :    git pull
-####### Change from branch to another           :    git checkout branch-name(the branch name which you want to change in to)
-####### Merging only a specific file            :    git checkout branch-name(from which branch you want the file) file-name
+### Pull the Code from the Repository       :    git pull
+### Change from branch to another           :    git checkout branch-name(the branch name which you want to change in to)
+###### Merging only a specific file            :    git checkout branch-name(from which branch you want the file) file-name
 ####### Checking the git status                 :    git status
 ####### Adding the files to Git                 :    git add .
 ####### Commit the Changes                      :    git commit -m "commit mesages"
